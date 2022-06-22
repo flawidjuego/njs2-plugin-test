@@ -11,7 +11,6 @@
   "license": "ISC",
   "njs2-type": "project",
   "devDependencies": {
-    "serverless-offline": "^7.0.0",
     "eslint": "7.6.0",
     "eslint-config-airbnb-base": "14.2.0",
     "eslint-config-prettier": "6.11.0",
@@ -20,6 +19,7 @@
     "eslint-plugin-security": "1.4.0",
     "nodemon": "^2.0.12",
     "prettier": "2.0.5",
+    "serverless-offline": "^8.8.0",
     "serverless-prune-plugin": "^1.5.1"
   },
   "dependencies": {
