@@ -1,0 +1,13 @@
+{
+  "isSecured": false,
+  "requestMethod": "GET",
+  "initParams": {
+    "emailId": {
+      "name": "email_id",
+      "type": "string",
+      "description": "email_id",
+      "required": true,
+      "default": ""
+    }
+  }
+}
